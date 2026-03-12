@@ -9,19 +9,20 @@
 
 I am a dedicated Computer Science Student at the University of Oradea, where I bridge the gap between aesthetic design and functional code. With a solid foundation of 4+ years in Graphic Design, I approach frontend development with a unique eye for detail, color theory, and user experience.
 
-🎓 Currently: Pursuing my Bachelor's in CS.
 
-🎨 Expertise: Graphic Design turned UI/UX & Frontend Development.
+- 🎓 Currently: Pursuing my Bachelor's in CS.
 
-💡 Passion: Building high-performance web applications and experimenting with IoT/Arduino projects.
+- 🎨 Expertise: Graphic Design turned UI/UX & Frontend Development.
 
-🛠️ Workflow: I believe that clean code is just as important as a clean layout.
+- 💡 Passion: Building high-performance web applications and experimenting with IoT/Arduino projects.
 
-🛠️ My Toolbox
+- 🛠️ Workflow: I believe that clean code is just as important as a clean layout.
 
-📊 Performance & Statistics
+- 🛠️ My Toolbox
 
-🎨 Design Meets Logic
+- 📊 Performance & Statistics
+
+- 🎨 Design Meets Logic
 
 I believe that development is an extension of the creative process. My work focuses on:
 
