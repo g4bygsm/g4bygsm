@@ -1,4 +1,6 @@
-Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Gaby! 👋
+**`Student/ Developer `**
+
 
 🚀 About Me
 
