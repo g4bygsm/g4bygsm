@@ -73,12 +73,6 @@ I am a dedicated Computer Science Student at the University of Oradea, where I b
 </p>
 
 
-# 📊 Stats
-
-![G4by's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4bygsm&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4bygsm&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 # My Coding Journey
 
 I started exploring programming in 9th grade, where I studied C++ as part of the school curriculum and later took my final high school exam in it. At the same time, in 10th grade, I began learning web development, starting with HTML, CSS, and JavaScript.
@@ -92,3 +86,10 @@ In 12th grade, I strengthened my SQL knowledge and continued improving my skills
 After starting university, I began working with C# and learning core Object-Oriented Programming concepts. In parallel, I explored Linux, Arduino development, and further deepened my C++ knowledge. Over the years, I have also gained experience using Git for version control.
 
 On the design side, I have around 4 years of experience in graphic design, working with tools like Canva, Adobe Illustrator, and Figma. Additionally, I have over 5 years of experience in video editing, which I practice occasionally.
+
+
+# 📊 Stats
+
+![G4by's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4bygsm&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4bygsm&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
