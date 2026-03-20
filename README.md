@@ -79,6 +79,7 @@ I am a dedicated Computer Science Student at the University of Oradea, where I b
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4bygsm&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+[![G4by's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=g4bygsm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🎓 Currently: Pursuing my Bachelor's in CS.
