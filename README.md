@@ -1,21 +1,20 @@
 # Hi there, I'm Gaby! 👋
 **`Student`**  **`Frontend`**  **`Developer`** **`Designer`** **`Video Editor`**
+
+
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@g4bygsm"><img width="32px" alt="Youtube" title="Youtube" src="https://skillicons.dev/icons?i=youtube"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=x"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://skillicons.dev/icons?i=discord"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://skillicons.dev/icons?i=linktree"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://skillicons.dev/icons?i=instagram"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+  <a href="https://www.youtube.com/@g4bygsm">
+    <img width="32px" src="https://cdn.simpleicons.org/youtube/FF0000" alt="Youtube" title="Youtube"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/triplucian">
+    <img width="32px" src="https://cdn.simpleicons.org/instagram/FF0000" alt="Youtube" title="Youtube"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;
 </p>
+
+
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
