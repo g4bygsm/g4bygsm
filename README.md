@@ -73,6 +73,11 @@ I am a dedicated Computer Science Student at the University of Oradea, where I b
 </p>
 
 
+## Stats
+
+![G4by's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4bygsm&show_icons=true&theme=tokyonight)
+
+
 
 - 🎓 Currently: Pursuing my Bachelor's in CS.
 
