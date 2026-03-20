@@ -1,43 +1,25 @@
 # Hi there, I'm Gaby! 👋
 **`Student`**  **`Frontend`**  **`Developer`** **`Designer`** **`Video Editor`**
 
-
-<!-- Social icons section -->
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/@g4bygsm">
-    <img width="32px" src="https://cdn.simpleicons.org/youtube/FF0000" alt="Youtube" title="Youtube"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/triplucian">
-    <img width="32px" src="https://cdn.simpleicons.org/instagram/FF0000" alt="Youtube" title="Youtube"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;
-</p>
-
-
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://www.youtube.com/@g4bygsm">
-    <img alt="YouTube" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   
-  <a href="https://www.linkedin.com/in/LINK_LINKEDIN_AICI">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.instagram.com/triplucian/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-  <a href="https://github.com/NUMELE_TAU_DE_GITHUB?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NUMELE_TAU_DE_GITHUB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  
+  <a href="https://linktr.ee/g4by.designs">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
-
-  <a href="https://github.com/NUMELE_TAU_DE_GITHUB?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NUMELE_TAU_DE_GITHUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Urmareste-ma"/>
+  
+  <a href="https://www.linkedin.com/in/g4by-gsm-357603257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/NUMELE_TAU_DE_GITHUB">
-    <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=NUMELE_TAU_DE_GITHUB&style=for-the-badge&color=blue&label=VIZUALIZARI"/>
+  
+  <a href="LINK_DISCORD_AICI">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
