@@ -34,7 +34,7 @@
 I am a dedicated Computer Science Student at the University of Oradea, where I bridge the gap between aesthetic design and functional code. With a solid foundation of 4+ years in Graphic Design, I approach frontend development with a unique eye for detail, color theory, and user experience.
 
 
-# 🛠️ Language and Tools
+# 🛠️ Languages and Tools
 
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=visualstudio"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://skillicons.dev/icons?i=visualstudio"/></a>
